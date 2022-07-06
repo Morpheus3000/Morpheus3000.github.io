@@ -33,3 +33,8 @@ _A Novel approach for Graphical User Interface development and real time Object 
 **2018 2019, 2020, 2021, 2022**: MSc. Thesis Supervision.
 **2018, 2019**:                  Master's Project AI Supervision.
 **2017**:                        BSc. Thesis Supervision.
+
+### Me on the Internet
+
+[**Google Scholar**](https://scholar.google.com/citations?user=4c_gDYEAAAAJ&hl=en)
+[**LinkedIn**](https://www.linkedin.com/in/partha-das-898a78188/)
