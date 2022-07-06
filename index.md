@@ -12,9 +12,7 @@ I am currently pursuing a PhD at the Computer Vision Group, under the Informatic
 
 **2017**: Winner at Global AI Hackathon, Amsterdam Chapter. 
 
-**2016**: Presented app idea based on IBM Watson through the Watson Innovation course jointly offered by IBM and VU. Was selected as the finalists.
-
-**2016**: Participated in the GRIT Project to come up with a pitch for the new Startup Village in Amsterdam for Ace Venture Labs and actively helped design the project to fruition.
+**2016**: Finalists for the Watson Innovation competition. 
 
 ### Publications
 
