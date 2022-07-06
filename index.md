@@ -4,7 +4,9 @@ I am currently pursuing a PhD at the Computer Vision Group, under the Informatic
 
 ### News
 
-**2022**: Code for PIENet is now [available](https://ivi.fnwi.uva.nl/cv/pienet/). Accepted at International Computer Vision Summer School. 
+**2022**: Accepted at International Computer Vision Summer School. 
+
+**2022**: Code for PIENet is now [available](https://ivi.fnwi.uva.nl/cv/pienet/). 
 
 **2021**: Winner of Fujitsu AI Hackathon.
 
