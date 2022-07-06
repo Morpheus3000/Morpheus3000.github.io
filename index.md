@@ -33,6 +33,7 @@ I am currently pursuing a PhD at the Computer Vision Group, under the Informatic
 * _Joint Learning of Intrinsic Images and Semantic Segmentation. Accepted in European Conference on Computer Vision \textbf{(ECCV)} 2018._
 
 * _A Real-Time Face Motion Based Approach towards Modelling Socially Assistive Wireless Robot Control with Voice Recognitionî published in the International Journal of Advanced Computer Science and Applications (IJACSA), 6(10), 2015._
+* _A Real-Time Face Motion Based Approach towards Modelling Socially Assistive Wireless Robot Control with Voice Recognition‚Äù published in the International Journal of Advanced Computer Science and Applications (IJACSA), 6(10), 2015._
 
 * _A Hybrid color plane approach towards Color based Object detection and Modelling of a Real-time Gesture based Intelligent Virtual Aid using Artificial Neural Network, Accepted \& Presented at First International  Conference on Computing, Communication, Control and Automation, 2015._
 
