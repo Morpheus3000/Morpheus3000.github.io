@@ -38,3 +38,5 @@ _A Novel approach for Graphical User Interface development and real time Object 
 
 [**Google Scholar**](https://scholar.google.com/citations?user=4c_gDYEAAAAJ&hl=en)
 [**LinkedIn**](https://www.linkedin.com/in/partha-das-898a78188/)
+
+<sup><sup>Thanks to [Wei Wang](https://we-wan.github.io/) for the template!</sup></sup>
