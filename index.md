@@ -1,10 +1,10 @@
-## Wei Wang's Homepage
+## Partha's piece of the Internet
 
 I am currently pursuing a PhD at the Computer Vision Group, under the Informatics Institute of the University of Amsterdam. I am supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning \& traditional approaches. Specifically, tasks like image formation, light estimation and colour correction, etc. I am interested in levying these approaches to build efficient \& stable AR/VR/Mixed Reality systems.
 
 ### News
 
-**2022**: Accepted at International Computer Vision Summer School.
+**2022**: Code for PIENet is now [available](https://ivi.fnwi.uva.nl/cv/pienet/). Accepted at International Computer Vision Summer School. 
 
 **2021**: Winner of Fujitsu AI Hackathon.
 
@@ -44,6 +44,7 @@ _A Novel approach for Graphical User Interface development and real time Object 
 
 
 ### Academic Experiences
+<pre>
 **2020, 2021, 2022**:            Reviewer - ICCV, CVPR, ECCV, TIP, TPAMI.
 
 **2019, 2020, 2021**:            Teaching Assistant - Computer Vision 1, University of Amsterdam. 
@@ -55,6 +56,7 @@ _A Novel approach for Graphical User Interface development and real time Object 
 **2018, 2019**:                  Master's Project AI Supervision.
 
 **2017**:                        BSc. Thesis Supervision.
+</pre>
 
 ### Me on the Internet
 
