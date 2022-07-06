@@ -1,8 +1,8 @@
-##Partha's piece of the Internet
+## Partha's piece of the Internet
 
 I am currently pursuing a PhD at the Computer Vision Group, under the Informatics Institute of the University of Amsterdam. I am supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning \& traditional approaches. Specifically, tasks like image formation, light estimation and colour correction, etc. I am interested in levying these approaches to build efficient \& stable AR/VR/Mixed Reality systems.
 
-###News
+### News
 
 **2022**: Accepted at International Computer Vision Summer School. 
 
@@ -16,7 +16,7 @@ I am currently pursuing a PhD at the Computer Vision Group, under the Informatic
 
 **2016**: Participated in the GRIT Project to come up with a pitch for the new Startup Village in Amsterdam for Ace Venture Labs and actively helped design the project to fruition.
 
-###Publications
+### Publications
 
 * _PIENet: Photometric Invariant Edge Guided Network for Intrinsic Image Decomposition, Accepted at the Conference on Computer Vision and Pattern Recognition \textbf{(CVPR)}, 2022._
 
@@ -46,7 +46,7 @@ I am currently pursuing a PhD at the Computer Vision Group, under the Informatic
 * _A Novel approach for Graphical User Interface development and real time Object and Face Tracking using Image Processing and Computer Vision Techniques implemented in MATLAB, published in International Organisation of Scientific Research (IOSR) Journals, Vol. 15, Issue 5, PP. 61-68, Nov.-Dec., 2013._
 
 
-###Academic Experiences
+### Academic Experiences
 **2020, 2021, 2022**:            Reviewer - ICCV, CVPR, ECCV, TIP, TPAMI.
 
 **2019, 2020, 2021**:            Teaching Assistant - Computer Vision 1, University of Amsterdam. 
@@ -59,7 +59,7 @@ I am currently pursuing a PhD at the Computer Vision Group, under the Informatic
 
 **2017**:                        BSc. Thesis Supervision.
 
-###Find me on the Internet
+### Find me on the Internet
 
 [**Google Scholar**](https://scholar.google.com/citations?user=4c_gDYEAAAAJ&hl=en)
 
