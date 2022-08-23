@@ -52,6 +52,7 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 * _Estimation of Arm Joint Angles from Surface Electromyography signals using Artificial Neural Networks, published in International Organisation of Scientific Research (IOSR) Journals, Vol. 15, Issue 6, PP. 38-44, Nov.-Dec., 2013._
 
 * _A Novel approach for Graphical User Interface development and real time Object and Face Tracking using Image Processing and Computer Vision Techniques implemented in MATLAB, published in International Organisation of Scientific Research (IOSR) Journals, Vol. 15, Issue 5, PP. 61-68, Nov.-Dec., 2013._
+
 [/expand]
 
 ### Academic Experiences
