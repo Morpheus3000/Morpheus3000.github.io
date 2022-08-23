@@ -1,6 +1,6 @@
 ## Partha's piece of the Internet
 
-I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics Institute of the University of Amsterdam. I am supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning & traditional approaches. Specifically, tasks like image formation, light [expand] estimation and colour correction, etc. I am interested in levying these approaches to build efficient & stable AR/VR/Mixed Reality systems. [/expand]
+I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics Institute of the University of Amsterdam. I am supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning & traditional approaches. Specifically, tasks like image formation, light estimation and colour correction, etc. I am interested in levying these approaches to build efficient & stable AR/VR/Mixed Reality systems.
 
 ### News
 
