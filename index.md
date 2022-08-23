@@ -1,6 +1,7 @@
 ## Partha's piece of the Internet
 
-I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics Institute of the University of Amsterdam. I am supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning & traditional approaches. Specifically, tasks like image formation, light estimation and colour correction, etc. I am interested in levying these approaches to build efficient & stable AR/VR/Mixed Reality systems.
+I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics Institute of the University of Amsterdam. I am supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning & traditional approaches. Specifically, tasks like image formation, light [expand]estimation and colour correction, etc. I am interested in levying these approaches to build efficient & stable AR/VR/Mixed Reality systems.
+[/expand]
 
 ### News
 
@@ -43,6 +44,7 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 * _Joint Learning of Intrinsic Images and Semantic Segmentation. Accepted in European Conference on Computer Vision **(ECCV)** 2018._
 
 [expand]
+
 * _A Real-Time Face Motion Based Approach towards Modelling Socially Assistive Wireless Robot Control with Voice Recognition, published in the International Journal of Advanced Computer Science and Applications (IJACSA), 6(10), 2015._
 
 * _A Hybrid color plane approach towards Color based Object detection and Modelling of a Real-time Gesture based Intelligent Virtual Aid using Artificial Neural Network, Accepted & Presented at First International  Conference on Computing, Communication, Control and Automation, 2015._
@@ -68,10 +70,10 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 
 **2017**:                        BSc. Thesis Supervision.
 
-### Find me on the Internet
+### Find me on the Internet!
 
-[**Google Scholar**](https://scholar.google.com/citations?user=4c_gDYEAAAAJ&hl=en)
+[**_Google Scholar_**](https://scholar.google.com/citations?user=4c_gDYEAAAAJ&hl=en)
 
-[**LinkedIn**](https://www.linkedin.com/in/partha-das-898a78188/)
+[**_LinkedIn_**](https://www.linkedin.com/in/partha-das-898a78188/)
 
 <sup><sup>Thanks to [Wei Wang](https://we-wan.github.io/) for the template!</sup></sup>
