@@ -4,19 +4,19 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 
 ### News
 
-**2022**: Our paper titled 'SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes' has been accepted in ECCV 2022, Workshop CV4Metaverse.
-
-**2022**: Our paper titled 'Intrinsic Image Decomposition using Physics-based Cues and CNNs' has been accepted in CVIU.
+**2022**: Two papers are accepted in CVIU and ECCV Workshop CV4Metaverse, respectively!
 
 **2022**: Accepted at International Computer Vision Summer School. 
 
 **2022**: Code for PIENet is now [available](https://ivi.fnwi.uva.nl/cv/pienet/). 
 
-**2021**: Our paper titled 'ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition' has been accepted in IJCV.
-
-**2021**: Our paper titled 'Generative Models for Multi-Illumination Color Constancy' has been accepted in ICCV Workshop PBDL.
+**2021**: Three papers are accepted in IJCV, WACV and ICCV Workshop PBDL, respectively!
 
 **2021**: Winner of Fujitsu AI Hackathon.
+
+**2020**: Paper accepted at BMVC!
+
+**2018**: Paper accepted at ECCV!
 
 **2017**: Winner at Global AI Hackathon, Amsterdam Chapter. 
 
@@ -24,23 +24,23 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 
 ### Publications
 
-* _PIENet: Photometric Invariant Edge Guided Network for Intrinsic Image Decomposition, Accepted at the Conference on Computer Vision and Pattern Recognition \textbf{(CVPR)}, 2022._
+* _PIENet: Photometric Invariant Edge Guided Network for Intrinsic Image Decomposition, Accepted at the Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2022._
 
-* _Intrinsic Image Decomposition using Physics-based Cues and CNNs, Accepted in Computer Vision and Image Understanding (\textbf{CVIU}), 2022_
+* _Intrinsic Image Decomposition using Physics-based Cues and CNNs, Accepted in Computer Vision and Image Understanding **(CVIU)**, 2022_
 
-* _SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes, Accepted in European Conference of Computer Vision \textbf{(ECCV)} CV4Metaverse Workshop, 2022._
+* _SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes, Accepted in European Conference of Computer Vision **(ECCV)** CV4Metaverse Workshop, 2022._
 
-* _ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition, Accepted in International Journal of Computer Vision \textbf{(IJCV)}, 2021. (Extension of Master's Thesis.)_
+* _ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition, Accepted in International Journal of Computer Vision **(IJCV)**, 2021. (Extension of Master's Thesis.)_
 
-* _Generative Models for Multi-Illumination Color Constancy, Accepted in 3rd IEEE International Conference on Computer Vision \textbf{(ICCV)} Workshop on Physics Based Vision meets Deep Learning (PBDL), 2021._
+* _Generative Models for Multi-Illumination Color Constancy, Accepted in 3rd IEEE International Conference on Computer Vision **(ICCV)** Workshop on Physics Based Vision meets Deep Learning (PBDL), 2021._
 
-* _Eden: Multimodal synthetic dataset of enclosed garden scenes, Accepted in Winter Conference on Applications of Computer Vision \textbf{(WACV)}, 2021._
+* _Eden: Multimodal synthetic dataset of enclosed garden scenes, Accepted in Winter Conference on Applications of Computer Vision **(WACV)**, 2021._
 
-* _Novel View Synthesis from Single Images via Point Cloud Transformation. Accepted in British Machine Vision Conference \textbf{(BMVC)}, 2020._
+* _Novel View Synthesis from Single Images via Point Cloud Transformation. Accepted in British Machine Vision Conference **(BMVC)**, 2020._
 
 * _Color Constancy by GANs: An Experimental Survey. Preprint available on arXiv._
 
-* _Joint Learning of Intrinsic Images and Semantic Segmentation. Accepted in European Conference on Computer Vision \textbf{(ECCV)} 2018._
+* _Joint Learning of Intrinsic Images and Semantic Segmentation. Accepted in European Conference on Computer Vision **(ECCV)** 2018._
 
 * _A Real-Time Face Motion Based Approach towards Modelling Socially Assistive Wireless Robot Control with Voice Recognition, published in the International Journal of Advanced Computer Science and Applications (IJACSA), 6(10), 2015._
 
