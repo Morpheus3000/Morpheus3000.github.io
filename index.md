@@ -4,6 +4,10 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 
 ### News
 
+**2022**: Our paper titled 'SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes' has been accepted in ECCV 2022, Workshop CV4Metaverse.
+
+**2022**: Our paper titled 'Intrinsic Image Decomposition using Physics-based Cues and CNNs' has been accepted in CVIU.
+
 **2022**: Accepted at International Computer Vision Summer School. 
 
 **2022**: Code for PIENet is now [available](https://ivi.fnwi.uva.nl/cv/pienet/). 
@@ -18,9 +22,13 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 
 * _PIENet: Photometric Invariant Edge Guided Network for Intrinsic Image Decomposition, Accepted at the Conference on Computer Vision and Pattern Recognition \textbf{(CVPR)}, 2022._
 
-* _Generative Models for Multi-Illumination Color Constancy, Accepted in 3rd IEEE International Conference on Computer Vision \textbf{(ICCV)} Workshop on Physics Based Vision meets Deep Learning (PBDL), 2021._
+* _Intrinsic Image Decomposition using Physics-based Cues and CNNs, Accepted in Computer Vision and Image Understanding (\textbf{CVIU}), 2022_
+
+* _SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes, Accepted in European Conference of Computer Vision \textbf{(ECCV)} CV4Metaverse Workshop, 2022._
 
 * _ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition, Accepted in International Journal of Computer Vision \textbf{(IJCV)}, 2021. (Extension of Master's Thesis.)_
+
+* _Generative Models for Multi-Illumination Color Constancy, Accepted in 3rd IEEE International Conference on Computer Vision \textbf{(ICCV)} Workshop on Physics Based Vision meets Deep Learning (PBDL), 2021._
 
 * _Intrinsic Image Decomposition using Physics-based Cues and CNNs. Under submission at Computer Vision and Image Understanding (CVIU)._
 
