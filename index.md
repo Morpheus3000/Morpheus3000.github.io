@@ -12,6 +12,10 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 
 **2022**: Code for PIENet is now [available](https://ivi.fnwi.uva.nl/cv/pienet/). 
 
+**2021**: Our paper titled 'ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition' has been accepted in IJCV.
+
+**2021**: Our paper titled 'Generative Models for Multi-Illumination Color Constancy' has been accepted in ICCV Workshop PBDL.
+
 **2021**: Winner of Fujitsu AI Hackathon.
 
 **2017**: Winner at Global AI Hackathon, Amsterdam Chapter. 
@@ -29,8 +33,6 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 * _ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition, Accepted in International Journal of Computer Vision \textbf{(IJCV)}, 2021. (Extension of Master's Thesis.)_
 
 * _Generative Models for Multi-Illumination Color Constancy, Accepted in 3rd IEEE International Conference on Computer Vision \textbf{(ICCV)} Workshop on Physics Based Vision meets Deep Learning (PBDL), 2021._
-
-* _Intrinsic Image Decomposition using Physics-based Cues and CNNs. Under submission at Computer Vision and Image Understanding (CVIU)._
 
 * _Eden: Multimodal synthetic dataset of enclosed garden scenes, Accepted in Winter Conference on Applications of Computer Vision \textbf{(WACV)}, 2021._
 
