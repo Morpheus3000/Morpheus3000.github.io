@@ -80,6 +80,8 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
           Gawan Dekker
 
 **2020**: Tycho Koster
+[expand]
+
           Jeroen Terstall
 
 **2019**: Masoumeh Bakhtiariziabari
@@ -90,6 +92,8 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
           Yachu Yang
 
 **2018**: Alexander Albrecht
+
+[/expand]
 
 ### Find me on the Internet!
 
