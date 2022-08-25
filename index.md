@@ -80,6 +80,7 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
           Gawan Dekker
 
 **2020**: Tycho Koster
+
 [expand]
 
           Jeroen Terstall
