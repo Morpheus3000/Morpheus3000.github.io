@@ -69,6 +69,7 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 
 **2017**:                        BSc. Thesis Supervision.
 
+
 ### Thesis 
 **2022**: Friso Verweij, 
           Angelo de Groot, 
@@ -77,23 +78,20 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
           Roy van Bragt
 
 **2021**: Shane Koppers, 
-          Gawan Dekker, 
-
-[expand]
+          Gawan Dekker
 
 **2020**: Tycho Koster, 
-          Jeroen Terstall, 
+          Jeroen Terstall
 
 **2019**: Masoumeh Bakhtiariziabari, 
           R.P.W. van den Hoogen, 
           Lukas Jelinek, 
           Gururaj Rao, 
           Melissa Tjhia, 
-          Yachu Yang, 
+          Yachu Yang
 
 **2018**: Alexander Albrecht
 
-[/expand]
 
 ### Find me on the Internet!
 
