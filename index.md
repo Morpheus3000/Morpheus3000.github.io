@@ -4,7 +4,7 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 
 ### News
 
-**2022**: I'm at ECCV2022. Come say hi!
+**2022**: I'm at ECCV2022. Come say hi! Code for my work is now available!
 
 **2022**: Two papers are accepted in CVIU and ECCV Workshop CV4Metaverse, respectively!
 
