@@ -1,8 +1,13 @@
 ## Partha's piece of the Internet
 
-I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics Institute of the University of Amsterdam. I am supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning & traditional approaches. Specifically, tasks like image formation, light estimation and colour correction, etc. I am interested in levying these approaches to build efficient & stable AR/VR/Mixed Reality systems.
+I hold a PhD from the Computer Vision Lab, under the Informatics Institute of the University of Amsterdam. I was supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning & traditional approaches. Specifically, tasks like image formation, light estimation and colour correction, etc. I am interested in levying these approaches to build efficient & stable AR/VR/Mixed Reality systems.
 
 ### News
+**2023**: Exploratory work on Transformers and physics based learning accepted at ICCV New Ideas in Vision Transformers, Paris!
+
+**2023**: I defended my PhD thesis (nominated for cum-laude) successfully at the University of Amsterdam!
+
+**2022**: I'm at ECCV2022. Come say hi! Code for SIGNet is now [available](https://github.com/Morpheus3000/SIGNet)!
 
 **2022**: Two papers are accepted in CVIU and ECCV Workshop CV4Metaverse, respectively!
 
@@ -57,7 +62,7 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 [/expand]
 
 ### Academic Experiences
-**2020, 2021, 2022**:            Reviewer - ICCV, CVPR, ECCV, TIP, TPAMI.
+**2020, 2021, 2022**:            Reviewer - ICCV, CVPR, ECCV, TIP, TPAMI, CVIU, Computer & Graphics.
 
 **2019, 2020, 2021**:            Teaching Assistant - Computer Vision 1, University of Amsterdam. 
 
@@ -70,7 +75,10 @@ I am currently pursuing a PhD at the Computer Vision Lab, under the Informatics 
 **2017**:                        BSc. Thesis Supervision.
 
 
-### Thesis 
+### Thesis
+
+**2023**: David Simon Tetruashvili
+
 **2022**: Friso Verweij, 
           Angelo de Groot, 
           Hannah Min, 
