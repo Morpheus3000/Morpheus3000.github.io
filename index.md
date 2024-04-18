@@ -64,20 +64,20 @@ I hold a PhD from the Computer Vision Lab, under the Informatics Institute of th
 [/expand]
 
 ### Academic Experiences
-**2020, 2021, 2022, 2023, 2024**:      Reviewer - ICCV, CVPR, ECCV, TIP, TPAMI, CVIU, Computer & Graphics.
+**2020 - 2024**: Reviewer - ICCV, CVPR, ECCV, TIP, TPAMI, CVIU, Computer & Graphics.
 
-**2019, 2020, 2021**:                  Teaching Assistant - Computer Vision 1, University of Amsterdam. 
+**2019 - 2021**: Teaching Assistant - Computer Vision 1, University of Amsterdam. 
 
-**2019, 2020, 2021, 2022**:            Teaching Assistant - Computer Vision 2, University of Amsterdam. 
+**2019 - 2022**: Teaching Assistant - Computer Vision 2, University of Amsterdam. 
 
-**2018 2019, 2020, 2021, 2022, 2023**: MSc. Thesis Supervision.
+**2018 - 2023**: MSc. Thesis Supervision.
 
-**2018, 2019**:                        Master's Project AI Supervision.
+**2018 - 2019**: Master's Project AI Supervision.
 
-**2017**:                              BSc. Thesis Supervision.
+**2017**:        BSc. Thesis Supervision.
 
 
-### Thesis
+### Thesis Supervision
 
 **2023**: David Simon Tetruashvili
 
