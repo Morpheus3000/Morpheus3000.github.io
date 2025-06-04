@@ -2,6 +2,8 @@
 
 I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.handle.net/11245.1/4624ce30-c65e-4b76-9e9b-de978ad6a01f)), under the Informatics Institute of the University of Amsterdam. I was supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning & traditional approaches. Specifically, tasks like image formation, light estimation and colour correction, etc. I am interested in levying these approaches to build efficient & stable AR/VR/Mixed Reality systems. 
 ### News
+**2025**: I have been awarded Outstanding Reviewer, CVPR 2025!
+
 **2024**: I have been awarded Outstanding Reviewer, ECCV 2024!
 
 **2024**: Invited talks on Physics based image understanding at Computer Vision Lab, University of Siegen and Pizza Talk at Anton Pannekoek Institute for Astronomy, University of Amsterdam!
@@ -22,6 +24,8 @@ I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.h
 
 **2021**: Winner of Fujitsu AI Hackathon.
 
+[expand]
+
 **2020**: Paper accepted at BMVC!
 
 **2018**: Paper accepted at ECCV!
@@ -29,6 +33,8 @@ I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.h
 **2017**: Winner at Global AI Hackathon, Amsterdam Chapter. 
 
 **2016**: Finalists for the Watson Innovation competition. 
+
+[/expand]
 
 ### Publications
 
