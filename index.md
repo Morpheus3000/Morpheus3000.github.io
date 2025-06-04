@@ -2,6 +2,8 @@
 
 I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.handle.net/11245.1/4624ce30-c65e-4b76-9e9b-de978ad6a01f)), under the Informatics Institute of the University of Amsterdam. I was supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning & traditional approaches. Specifically, tasks like image formation, light estimation and colour correction, etc. I am interested in levying these approaches to build efficient & stable AR/VR/Mixed Reality systems. 
 ### News
+**2025**: I am co-organising a workshop at ICCV 2025! _Link coming soon._
+
 **2025**: I have been awarded Outstanding Reviewer, CVPR 2025!
 
 **2024**: I have been awarded Outstanding Reviewer, ECCV 2024!
@@ -69,7 +71,7 @@ I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.h
 [/expand]
 
 ### Academic Experiences
-**2020 - 2024**: Reviewer - ICCV, CVPR, ECCV, TIP, TPAMI, CVIU, Computer & Graphics.
+**2020 - _Current_**: Reviewer - ICCV, CVPR, ECCV, TIP, TPAMI, CVIU, Computer & Graphics, ACMMM
 
 **2019 - 2021**: Teaching Assistant - Computer Vision 1, University of Amsterdam. 
 
@@ -83,6 +85,8 @@ I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.h
 
 
 ### Thesis Supervision
+
+**2025**: Rohith Prabhakaran
 
 **2023**: David Simon Tetruashvili
 
