@@ -24,8 +24,6 @@ I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.h
 
 **2021**: Winner of Fujitsu AI Hackathon.
 
-[expand]
-
 **2020**: Paper accepted at BMVC!
 
 **2018**: Paper accepted at ECCV!
@@ -33,8 +31,6 @@ I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.h
 **2017**: Winner at Global AI Hackathon, Amsterdam Chapter. 
 
 **2016**: Finalists for the Watson Innovation competition. 
-
-[/expand]
 
 ### Publications
 
