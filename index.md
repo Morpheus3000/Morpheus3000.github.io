@@ -2,7 +2,7 @@
 
 I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.handle.net/11245.1/4624ce30-c65e-4b76-9e9b-de978ad6a01f)), under the Informatics Institute of the University of Amsterdam. I was supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning & traditional approaches. Specifically, tasks like image formation, light estimation and colour correction, etc. I am interested in levying these approaches to build efficient & stable AR/VR/Mixed Reality systems. 
 ### News
-**2025**: I am co-organising a workshop at ICCV 2025! Submission for 4 pages short paper now open [here](https://iccv2025-limit-workshop.limitlab.xyz). _Deadline 10th July, 2025._
+**2025**: I am co-organising a workshop at ICCV 2025! Submission for 4 pages short paper now open [here](https://iccv2025-limit-workshop.limitlab.xyz). _**Deadline 10th July, 2025.**_
 
 **2025**: I have been awarded Outstanding Reviewer, CVPR 2025!
 
