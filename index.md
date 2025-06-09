@@ -1,6 +1,9 @@
 ## Partha's piece of the Internet
 
 I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.handle.net/11245.1/4624ce30-c65e-4b76-9e9b-de978ad6a01f)), under the Informatics Institute of the University of Amsterdam. I was supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). My research interests are in physics based image understanding, using deep learning & traditional approaches. Specifically, tasks like image formation, light estimation and colour correction, etc. I am interested in levying these approaches to build efficient & stable AR/VR/Mixed Reality systems. 
+
+I am part of the [*_LIMIT.Lab_*](https://limitlab.xyz/) collaboration and community, where I am collaborating with other partner researchers and labs. I am also currently a Deep Learning/Computer Vision researcher at [WAIRForRetail](https://wair.ai/), as well as a guest researcher at the Computer Vision Lab of University of Amsterdam. Feel free to reach out if you are interested in colloborations or just want to chat/discuss research.
+
 ### News
 **2025**: I am co-organising a workshop at ICCV 2025! Submission for 4 pages short paper now open [here](https://iccv2025-limit-workshop.limitlab.xyz). _**Deadline 10th July, 2025.**_
 
@@ -33,6 +36,11 @@ I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.h
 **2017**: Winner at Global AI Hackathon, Amsterdam Chapter. 
 
 **2016**: Finalists for the Watson Innovation competition. 
+
+### Affiliations
+* University of Amsterdam.
+* [LIMIT.Lab](https://limitlab.xyz/)
+* [WAIRForRetail](https://wair.ai/)
 
 ### Publications
 
