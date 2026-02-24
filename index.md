@@ -5,6 +5,8 @@ I hold a PhD from the Computer Vision Lab ([Thesis available here](https://hdl.h
 I am part of the [*_LIMIT.Lab_*](https://limitlab.xyz/) collaboration and community, where I am collaborating with other partner researchers and labs. I am also currently a Deep Learning/Computer Vision researcher at [WAIRForRetail](https://wair.ai/), as well as a guest researcher at the Computer Vision Lab of University of Amsterdam. Feel free to reach out if you are interested in colloborations or just want to chat/discuss research.
 
 ### News
+**2026**: I have been ivnited to serve as a member on the 34th ACM Multimedia 2026 Program Committee!
+
 **2025**: I am in Hawaii, at ICCV 2025. Feel free to come say Aloha!
 
 **2025**: I am co-organising a workshop at ICCV 2025! Submission for 4 pages short paper now open [here](https://iccv2025-limit-workshop.limitlab.xyz). _**Deadline 10th July, 2025.**_
